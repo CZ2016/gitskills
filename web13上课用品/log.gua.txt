@@ -1,0 +1,10 @@
+2018/08/22 16:37:40 请求方法 GET
+2018/08/22 16:37:40 request, query 参数 ImmutableMultiDict([])
+2018/08/22 16:37:42 message_add 请求方法 POST
+2018/08/22 16:37:42 request, POST 的 form 表单数据 ImmutableMultiDict([('msg_post', '阿斯顿发斯蒂芬 ')])
+2018/08/22 16:37:42 请求方法 GET
+2018/08/22 16:37:42 request, query 参数 ImmutableMultiDict([])
+2018/08/22 16:37:48 message_add 请求方法 POST
+2018/08/22 16:37:48 request, POST 的 form 表单数据 ImmutableMultiDict([('msg_post', '阿斯顿发')])
+2018/08/22 16:37:48 请求方法 GET
+2018/08/22 16:37:48 request, query 参数 ImmutableMultiDict([])

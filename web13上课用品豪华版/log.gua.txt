@@ -1,0 +1,15 @@
+20:10:42 debug 0
+20:10:44 debug 1
+20:10:48 debug 2
+09:02:30 args ImmutableMultiDict([('a', 'b'), ('c', '')])
+09:51:56 args ImmutableMultiDict([('a', 'b'), ('c', '')])
+09:51:57 args ImmutableMultiDict([('a', 'b'), ('c', '')])
+09:51:58 args ImmutableMultiDict([('a', 'b'), ('c', '')])
+09:52:00 args ImmutableMultiDict([])
+09:52:01 args ImmutableMultiDict([('a', 'b'), ('c', '')])
+09:52:05 args ImmutableMultiDict([('a', 'b'), ('c', '')])
+09:52:06 args ImmutableMultiDict([('a', 'b'), ('c', '')])
+09:52:08 args ImmutableMultiDict([('a', 'b'), ('c', '')])
+09:52:11 debug 3
+09:52:18 args ImmutableMultiDict([])
+09:52:22 args ImmutableMultiDict([])
